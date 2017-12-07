@@ -23,7 +23,7 @@ Next, give the root user ownership of the `/opt` directory.
 
 `sudo chown -R root /opt`
 
-Create a directory for Apache Jena Fuseki and copy the extrated files to this directory.
+Create a directory for Apache Jena Fuseki and copy the extracted files to this directory.
 
 `sudo mkdir /opt/apache-jena-fuseki-3.5.0`
 
